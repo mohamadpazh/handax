@@ -58,10 +58,6 @@ content="E149:C8D24:D0EA0D:D3D3B0:673DC062" data-turbo-transient="true" /
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-content="E149:C8D24:D0EA0D:D3D3B0:673DC062" data-turbo-transient="true" /
-content="E149:C8D24:D0EA0D:D3D3B0:673DC062" data-turbo-transient="true" /
-  <meta name="route-pattern" content="/:user_id/:repository/edit/*name(/*path)" data-turbo-transient>
-  <meta name="route-controller" content="blob" data-turbo-transient>
 
   <meta name="route-action" content="edit" data-turbo-transient>
 content="E149:C8D24:D0EA0D:D3D3B0:673DC062" data-turbo-transient="true" /
