@@ -10,6 +10,16 @@
   <meta name="route-controller" content="blob" data-turbo-transient>
  [type="submit"]::-moz-focus-iner         ){border-style:none;padding:0;}fildset{padding:0.35em 0.75em 0.625em;}legend{box-sizing:border-bo b;color:inherit;display:table;max-width
 
+ <meta name="route-pattern" content="/:user_id/:repository/edit/*name(/*path)" data-turbo-transient>
+  <meta name="route-controller" content="blob" data-turbo-transient>
+ [type="button"]::-moz-focus-inner,   \     [type="reset"]::-moz-focus-inner,           
+  <meta name="route-pattern" content="/:user_id/:repository/edit/*name(/*path)" data-turbo-transient>
+  <meta name="route-controller" content="blob" data-turbo-transient>
+ [type="submit"]::-moz-focus-iner         ){border-style:none;padding:0;}fildset{padding:0.35em 0.75em 0.625em;}legend{box-sizing:border-bo b;color:inherit;display:table;max-width
+ <meta name="route-pattern" content="/:user_id/:repository/edit/*name(/*path)" data-turbo-transient>
+  <meta name="route-controller" content="blob" data-turbo-transient>
+ [type="submit"]::-moz-focus-iner         ){border-style:none;padding:0;}fildset{padding:0.35em 0.75em 0.625em;}legend{box-sizing:border-bo b;color:inherit;display:table;max-width
+
 
 
  [type="button"]::-moz-focus-inner,   \     [type="reset"]::-moz-focus-inner,           
